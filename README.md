@@ -1,10 +1,10 @@
 # Giacomo Salsano
 
-![LinkeInd Badge](https://img.shields.io/badge/Giacomo_Salsano-name?logo=linkedin&logoColor=0A66C2&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiacomo-salsano%2F)
-![Instagram Badge](https://img.shields.io/badge/giacomosalsano-instagram?logo=instagram&logoColor=E4405F&labelColor=white&color=blue&link=https%3A%2F%2Fwww.instagram.com%2Fgiacomosalsano%2F) 
-![Email Badge](https://img.shields.io/badge/giacomosalsano%40hotmail.com-email?logo=maildotru&logoColor=red&labelColor=white&color=blue&link=mailto%3Agiacomosalsano%40hotmail.com)
+<a href="https://www.linkedin.com/in/giacomo-salsano/">![LinkedIn Badge](https://img.shields.io/badge/Giacomo_Salsano-name?logo=linkedin&logoColor=0A66C2&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiacomo-salsano%2F)</a>
+<a href="https://www.instagram.com/giacomosalsano/">![Instagram Badge](https://img.shields.io/badge/giacomosalsano-instagram?logo=instagram&logoColor=E4405F&labelColor=white&color=blue&link=https%3A%2F%2Fwww.instagram.com%2Fgiacomosalsano%2F)</a>
+<a href="mailto:giacomosalsano@hotmail.com">![Email Badge](https://img.shields.io/badge/giacomosalsano%40hotmail.com-email?logo=maildotru&logoColor=red&labelColor=white&color=blue&link=mailto%3Agiacomosalsano%40hotmail.com)</a>
 
-
+<a href=""> </a>
 <div>
   <p>
     👤 I have a degree in Nutrition from UniCEUB in Brasília, Brazil, and a master's degree in Training Engineering from the University of Nantes, France. This academic background gave me a combination of skills that reaches different disciplines.
