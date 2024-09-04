@@ -2,7 +2,7 @@
 
 ![LinkeInd Badge](https://img.shields.io/badge/Giacomo_Salsano-name?logo=linkedin&logoColor=0A66C2&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiacomo-salsano%2F)
 ![Instagram Badge](https://img.shields.io/badge/giacomosalsano-instagram?logo=instagram&logoColor=E4405F&labelColor=white&color=blue&link=https%3A%2F%2Fwww.instagram.com%2Fgiacomosalsano%2F) 
-[![Email Badge](https://img.shields.io/badge/-giacomosalsano@hotmail.com-00875f?logo=maildotru&logoColor=EA4335&link=mailto:giacomosalsano@hotmail.com)](mailto:giacomosalsano@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/-giacomosalsano@hotmail.com?logo=maildotru&logoColor=EA4335&labelColor=white&color=blue&link=mailto:giacomosalsano@hotmail.com)](mailto:giacomosalsano@hotmail.com)
 
 <div>
   <p>
@@ -13,10 +13,8 @@
  
   <p>
     🌐 As a multidisciplinary person, throughout my life, I have acquired experience in different areas, making me capable of adapting to different environments and challenges. Having lived in Brazil, Portugal, Italy and France, I have cultivated a global perspective and a deep appreciation for cultural diversity. These experiences have not only enriched my personal life, but also provided me with a unique set of skills that I can leverage in my new career in IT.
-
-       Along this path, I became proficient in four languages ​​(Portuguese, English, Italian and French) and I have strong communication skills that allow me to interact effectively with people from different backgrounds and cultures. This multilingual capability enables me to seamlessly collaborate with international teams and easily navigate global business environments.
-       
-       Furthermore, I consider myself a self-taught person and, therefore, I am always willing to learn when facing new challenges. My curiosity and enthusiasm for exploring different areas make me an adaptable and versatile professional, always willing to expand my knowledge and experience. This proactive mindset can help me keep up with the dynamism and constant evolution of the IT area.
+    Along this path, I became proficient in four languages ​​(Portuguese, English, Italian and French) and I have strong communication skills that allow me to interact effectively with people from different backgrounds and cultures. This multilingual capability enables me to seamlessly collaborate with international teams and easily navigate global business environments.
+    Furthermore, I consider myself a self-taught person and, therefore, I am always willing to learn when facing new challenges. My curiosity and enthusiasm for exploring different areas make me an adaptable and versatile professional, always willing to expand my knowledge and experience. This proactive mindset can help me keep up with the dynamism and constant evolution of the IT area.
   </p>
   
   <p>
@@ -34,6 +32,6 @@
   
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,vite,nodejs,express,prisma,docker,postgres,mongodb,github,discord,postman,vercel,vscode" alt="icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,nodejs,discord,vscode,postman,notion,npm,vercel,docker,postgres,github,express,vite,prisma&perline=10" alt="icons" />
   <img src="https://skillicons.dev/icons?i=ableton,figma,ai,ps" alt="icons" />
 </div>
