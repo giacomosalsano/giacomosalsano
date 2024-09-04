@@ -27,6 +27,8 @@
   <p>
     🔧 In my previous role, as a master in Training Engineering, I improved my skills in developing and managing training programs, with a focus on improving communication strategies and promoting a cohesive work environment. This experience in resolving internal challenges to increase productivity gives me the ability to contribute effectively to projects, bringing a new perspective and possible innovative solutions.
   </p>
+
+  <br>
   
   <p>
     📚 Driven by a thirst for new knowledge, I entered the IT world and currently work as a FullStack Developer at @ToMaisVip. In this company, I had the opportunity to grow quickly, starting as an intern and becoming a key team member. I participated in decision-making and helped in code architecture, which provided me with great knowledge, expertise, and competence in the field.
