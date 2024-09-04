@@ -3,8 +3,9 @@
 <a href="https://www.linkedin.com/in/giacomo-salsano/" target="_blank">![LinkedIn Badge](https://img.shields.io/badge/Giacomo_Salsano-name?logo=linkedin&logoColor=0A66C2&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiacomo-salsano%2F)</a>
 <a href="https://www.instagram.com/giacomosalsano/" target="_blank">![Instagram Badge](https://img.shields.io/badge/giacomosalsano-instagram?logo=instagram&logoColor=E4405F&labelColor=white&color=blue&link=https%3A%2F%2Fwww.instagram.com%2Fgiacomosalsano%2F)</a>
 <a href="mailto:giacomosalsano@hotmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/giacomosalsano%40hotmail.com-email?logo=maildotru&logoColor=red&labelColor=white&color=blue&link=mailto%3Agiacomosalsano%40hotmail.com)</a>
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=giacomosalsano&color=blue&abbreviated=true)
 
-<a href=""> </a>
 <div>
   <p>
     👤 I have a degree in Nutrition from UniCEUB in Brasília, Brazil, and a master's degree in Training Engineering from the University of Nantes, France. This academic background gave me a combination of skills that reaches different disciplines.
@@ -32,6 +33,7 @@
   
   <p>
     📚 Driven by a thirst for new knowledge, I entered the IT world and currently work as a FullStack Developer at @ToMaisVip. In this company, I had the opportunity to grow quickly, starting as an intern and becoming a key team member. I participated in decision-making and helped in code architecture, which provided me with great knowledge, expertise, and competence in the field.
+    <br><br>
         My diverse education and skills make me a valuable professional in IT. I am excited to use my passion for programming and diverse experiences to contribute to projects and teams while continuing to enhance my knowledge.
   </p>
 
@@ -39,7 +41,7 @@
 </div>
 
 ## 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   
 </div>
 <div align="center" style="display: inline_block"><br>
