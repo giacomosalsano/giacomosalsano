@@ -1,7 +1,8 @@
 <div id="header" align="center" style="display: inline_block">
   
 
-![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/f7907074-65a0-4981-8aaa-dc7d2de6a864)
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/54d2a715-b863-4a2f-b7fc-4c0f8d2f5a53)
+
 
 
   <a href="https://www.linkedin.com/in/giacomo-salsano/" target="_blank">![LinkedIn Badge](https://img.shields.io/badge/Giacomo_Salsano-name?logo=linkedin&logoColor=0A66C2&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiacomo-salsano%2F)</a>
