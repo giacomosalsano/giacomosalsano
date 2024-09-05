@@ -6,6 +6,7 @@
   <a href="mailto:giacomosalsano@hotmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/giacomosalsano%40hotmail.com-email?logo=maildotru&logoColor=red&labelColor=white&color=blue&link=mailto%3Agiacomosalsano%40hotmail.com)</a>
   ![Profile Views](https://komarev.com/ghpvc/?username=giacomosalsano&color=blue&abbreviated=true)
   
+<br>
 
 <div id="text_presentation">
   <p>
