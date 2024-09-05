@@ -43,7 +43,7 @@
 </div>
 
 ## 
-<div id="footer" align="center" style="display: inline_block">
+<div id="icons" align="center" style="display: inline_block">
   
 </div>
 <div align="center" style="display: inline_block"><br>
@@ -53,6 +53,10 @@
 </div>
 
 ##
+<div id="stats" align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=giacomosalsano&theme=city-lights&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=giacomosalsano&theme=city-lights&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
+ ![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomosalsano&show_icons=true&bg_color=00000000&theme=city_lights)
+
+</div>
