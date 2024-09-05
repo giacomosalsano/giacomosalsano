@@ -1,7 +1,8 @@
 <div id="header" align="center" style="display: inline_block">
   
 
-![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/54d2a715-b863-4a2f-b7fc-4c0f8d2f5a53)
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/d4a5717c-4636-4c1f-af2a-c13c937aaf9d)
+
 
 
 
