@@ -53,6 +53,6 @@
 </div>
 
 ##
-<div id="footer" align="center" style="display: inline_block">
+<div id="footer" align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=giacomosalsano&theme=city-lights&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 </div>
