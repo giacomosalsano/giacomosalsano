@@ -1,10 +1,15 @@
-# Giacomo Salsano
+<div id="header" align="center" style="display: inline_block">
+  
+
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/f7907074-65a0-4981-8aaa-dc7d2de6a864)
 
 
   <a href="https://www.linkedin.com/in/giacomo-salsano/" target="_blank">![LinkedIn Badge](https://img.shields.io/badge/Giacomo_Salsano-name?logo=linkedin&logoColor=0A66C2&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiacomo-salsano%2F)</a>
   <a href="https://www.instagram.com/giacomosalsano/" target="_blank">![Instagram Badge](https://img.shields.io/badge/giacomosalsano-instagram?logo=instagram&logoColor=E4405F&labelColor=white&color=blue&link=https%3A%2F%2Fwww.instagram.com%2Fgiacomosalsano%2F)</a>
   <a href="mailto:giacomosalsano@hotmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/giacomosalsano%40hotmail.com-email?logo=maildotru&logoColor=red&labelColor=white&color=blue&link=mailto%3Agiacomosalsano%40hotmail.com)</a>
   ![Profile Views](https://komarev.com/ghpvc/?username=giacomosalsano&color=blue&abbreviated=true&base=160&label=Profile+Views)
+  
+</div>
 
 <br>
 
