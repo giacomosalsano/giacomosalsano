@@ -57,6 +57,6 @@
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=giacomosalsano&theme=city-lights&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
- ![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomosalsano&show_icons=true&bg_color=00000000&theme=city_lights)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomosalsano&layout=compact&theme=city_lights)
 
 </div>
