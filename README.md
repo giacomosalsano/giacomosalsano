@@ -55,7 +55,7 @@
   
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,nodejs,cypress,jest,vscode,postman,notion,npm,expo,vercel,docker,postgres,github,express,vite,prisma&perline=11" alt="icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,nodejs,cypress,jest,vscode,postman,notion,npm,vercel,docker,postgres,github,express,vite,prisma,discord&perline=11" alt="icons" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=ableton,figma,ai,ps" alt="icons" />
 </div>
