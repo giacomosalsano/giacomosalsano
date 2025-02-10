@@ -18,7 +18,7 @@
 ### About Me
 <div id="text_presentation">
   <p>
-    👤 I have a degree in Nutrition from UniCEUB in Brasília, Brazil, and a master's degree in Training Engineering from the University of Nantes, France. This academic background gave me a combination of skills that reaches different disciplines.
+    👤 I have a degree in Nutrition from UniCEUB in Brasília, Brazil, and a master's in Training Engineering from the University of Nantes, France. Currently, I am also studying Software Engineering at CEUB, expanding my knowledge in the technology field. My diverse academic background has provided me with skills across multiple disciplines, offering a broad and integrated perspective.
 
  
   </p>
@@ -55,7 +55,7 @@
   
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,nodejs,discord,vscode,cypress,jest,postman,notion,npm,vercel,docker,postgres,github,express,vite,prisma&perline=11" alt="icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,nodejs,cypress,jest,vscode,postman,notion,npm,expo,vercel,docker,postgres,github,express,vite,prisma&perline=11" alt="icons" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=ableton,figma,ai,ps" alt="icons" />
 </div>
