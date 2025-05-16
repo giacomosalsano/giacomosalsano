@@ -18,7 +18,7 @@
 ### About Me
 <div id="text_presentation">
   <p>
-    👤 I have a degree in Nutrition from UniCEUB in Brasília, Brazil, and a master's in Training Engineering from the University of Nantes, France. Currently, I am also studying Software Engineering at CEUB, expanding my knowledge in the technology field. My diverse academic background has provided me with skills across multiple disciplines, offering a broad and integrated perspective.
+    👤 I have a degree in Nutrition from UniCEUB in Brasília, Brazil, and a master's in Training Engineering from the University of Nantes, France. Currently, I am also studying Software Engineering at UniCEUB, expanding my knowledge in the technology field. My diverse academic background has provided me with skills across multiple disciplines, offering a broad and integrated perspective.
 
  
   </p>
